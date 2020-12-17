@@ -1,0 +1,14 @@
+@mixin info {
+    width: 100%;
+    text-align: center;
+    h2 {
+        color: $brown;
+        font-size: 17px;
+        letter-spacing: 4px;
+    }
+    h3 {
+        color: $black2;
+        font-size: 40px;
+        letter-spacing: 2px;
+    }
+}
